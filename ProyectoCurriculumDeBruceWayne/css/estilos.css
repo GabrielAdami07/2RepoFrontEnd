@@ -1,0 +1,32 @@
+#centrado{
+    text-align: center;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    color:#005677;
+    background-color:#C4C4C4;
+}
+h2{
+    color:#005677;
+    background-color:#C4C4C4;
+}
+#Negrita{
+    font-weight: bolder;
+}
+footer{
+    background-color: #005677;
+    font-weight: bolder;
+    color: white;
+}
+.cursiva{
+    font-style: oblique;
+}
+header{
+    background-color: #E6E6E6;
+}
